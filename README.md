@@ -1,1 +1,2 @@
-# secondo-projecto-firebaso
+# synchronousBallMovement
+Ball moving synchronously
